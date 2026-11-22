@@ -1,6 +1,6 @@
 # AI Application Security Lab
 
-**A Python-based learning project for testing and defending a local LLM-powered helpdesk application against prompt injection and unauthorized changes to reference content.**
+**A Python based learning project for testing and defending a local LLM-powered helpdesk application against prompt injection and unauthorized changes to reference content.**
 
 The application connects to **Gemma 3 (1B)** through **Ollama** and demonstrates a layered, application-enforced approach to security. It includes a rule-based detector, document integrity checks against approved facts, strict answer grounding, controlled red-team scenarios, and privacy-conscious security reporting.
 
