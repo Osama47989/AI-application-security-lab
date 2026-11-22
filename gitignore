@@ -1,0 +1,23 @@
+# Local security reports and logs
+reports/
+
+# Local knowledge files and experimental documents
+documents/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Local editor and temporary files
+.vscode/
+.idea/
+*.bak
+*.tmp
